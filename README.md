@@ -1,0 +1,1 @@
+This project performs some basic exploration on a company data in order to find insights.
