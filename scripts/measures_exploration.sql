@@ -1,6 +1,6 @@
 /*
 =====================================================================
-Measure Exploration
+Measures Exploration
 =====================================================================
 Script Purpose:
 	This script helps us calculate the key metrics of our Business

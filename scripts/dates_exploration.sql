@@ -1,6 +1,6 @@
 /*
 =====================================================================
-Date Exploration
+Dates Exploration
 =====================================================================
 Script Purpose:
 	This script helps us identify the earliest and latest dates in order
