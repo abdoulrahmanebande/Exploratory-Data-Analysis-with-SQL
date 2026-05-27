@@ -72,3 +72,12 @@ I specialize in building complete data ecosystems—from designing high-performa
 
 ### 🛠️ My Engineering Philosophy
 I believe that machine learning algorithms are only as good as the infrastructure supporting them. Whether I am writing optimized SQL scripts to build a data warehouse or writing a script to automate batch inferencing, my goal is always to build clean, maintainable, and decoupled systems that drive real corporate value.
+
+---  
+
+## 🚀 Moving to Next Phase: Advanced Analytics Engineering
+With the initial exploratory profile complete, the next phase is packaging advanced calculations into permanent database layers. 
+
+👉 **[Proceed to: Advanced Analytics & View Engineering Project](https://github.com/abdoulrahmanebande/Advanced-Data-Analytics-using-SQL.git)**
+
+---
