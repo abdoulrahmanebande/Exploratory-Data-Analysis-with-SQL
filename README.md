@@ -62,16 +62,18 @@ The analysis follows a disciplined, 6-stage structured framework designed to swe
 
 ## 👤 About Me
 
-Hello! I'm **Bande Abdoul-Rahmane**, a professional **Data Scientist** and **Data Engineer** and **Data Analyst** passionate about bridging the gap between raw data infrastructure, predictive modeling, and scalable MLOps deployment cycles. 
+# Hi, I'm Bande Abdoul-Rahmane 👋
 
-I specialize in building complete data ecosystems—from designing high-performance relational architectures using the Medallion framework to training and serving predictive machine learning models in automated production pipelines.
+### 🛠️ Data Engineer, MLOps Practitioner & AI Explorer
 
-### 🎓 Academic & Technical Foundation
-* **B-Tech in Computer Science & Engineering** (Specialization in Data Science) | CGPA: 7.56/10
-* **Core Competencies:** Data Warehousing (SQL Server, T-SQL), Data Pipeline Architectures (Medallion System, ETL/ELT), Relational & NoSQL Modeling (Star Schema, MongoDB), Advanced Machine Learning Pipelines (Scikit-Learn, XGBoost), Cross-Platform Application Analytics (Flutter & Dart), and MLOps Infrastructure (Docker, Cloud Systems).
+I specialize in building end-to-end data ecosystems—from high-performance relational architectures using the **Medallion framework** to containerized machine learning pipelines running in production. I design, build, and optimize every layer that data touches.
 
-### 🛠️ My Engineering Philosophy
-I believe that machine learning algorithms are only as good as the infrastructure supporting them. Whether I am writing optimized SQL scripts to build a data warehouse or writing a script to automate batch inferencing, my goal is always to build clean, maintainable, and decoupled systems that drive real corporate value.
+* **Data Engineering:** Designing structured DWH platforms (Bronze → Silver → Gold) using SQL Server and complex dimensional Star Schemas.
+* **Analytics Engineering:** Writing advanced T-SQL engines, analytical views, and deep-dive exploratory scripts.
+* **MLOps Pipeline:** Packaging predictive models (XGBoost, Scikit-Learn) into production environments using Docker and automated batch scoring.
+* **Next Horizon:** Currently diving deep into **Agentic AI** and LLM orchestration to build self-correcting data workflows.
+
+*“Algorithms are only as good as the infrastructure supporting them.”*
 
 ---  
 
